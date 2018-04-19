@@ -1,7 +1,7 @@
 h1 {
   color: red;
   text-align: center;
-  font-size: 50pt;
+  font-size: 50px;
 }
 
 p {
@@ -9,5 +9,5 @@ p {
 }
 
 body {
-  background-color: orange;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ruVQU_3PjPfLRFBGumcumTHigPHZlZKZG0cnL3t6vQno8_wOoA");
 }
