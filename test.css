@@ -13,3 +13,11 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
 }
+section {
+  width: 250px;
+  background-color: green;
+  padding: 25px;
+  border: 10px solid blue;
+  margin: 25px;
+}
+
