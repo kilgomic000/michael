@@ -1,6 +1,7 @@
 h1 {
   color: red;
-  align: center;
+  text-align: center;
+  font-size: 50pt;
 }
 
 p {
