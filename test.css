@@ -14,8 +14,8 @@ body {
   background-size: 100%;
 }
 section {
-  width: 250px;
-  background-color: green;
+  width: 100%;
+  background-color: white;
   padding: 25px;
   border: 10px solid blue;
   margin: 25px;
