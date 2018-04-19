@@ -10,6 +10,6 @@ p {
 
 body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ruVQU_3PjPfLRFBGumcumTHigPHZlZKZG0cnL3t6vQno8_wOoA");
-  max-width;
-  max-height;
+  width: max-width;
+  height: max-height;
 }
