@@ -14,10 +14,10 @@ body {
   background-size: 100%;
 }
 section {
-  width: 80%;
+  width: 300px;
   background-color: white;
-  padding: 2%;
-  border: 2% solid blue;
-  margin: 2%;
+  padding: 25px;
+  border: 10px solid blue;
+  margin: 25px;
 }
 
