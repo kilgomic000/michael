@@ -10,6 +10,7 @@ p {
 
 body {
   background-image: url("https://c1.staticflickr.com/3/2532/3891324913_be100c0a7d_b.jpg");
+  background-size: 100%;
 }
 section {
   width: 300px;
