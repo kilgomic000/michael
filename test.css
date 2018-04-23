@@ -12,7 +12,14 @@ body {
   background-image: url("https://c1.staticflickr.com/3/2532/3891324913_be100c0a7d_b.jpg");
   background-size: 100%;
 }
-section {
+section#abc001 {
+  width: 1000px;
+  background-color: white;
+  padding: 1px;
+  border: 10px solid blue;
+  margin: auto;
+}
+section#abc002 {
   width: 1000px;
   background-color: white;
   padding: 1px;
