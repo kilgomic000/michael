@@ -1,7 +1,7 @@
-h1 {
+h1#a1 {
   color: red;
   text-align: center;
-  font-size: 50px;
+  font-size: 150px;
 }
 
 p {
@@ -12,7 +12,7 @@ body {
   background-image: url("https://c1.staticflickr.com/3/2532/3891324913_be100c0a7d_b.jpg");
   background-size: 100%;
 }
-section {
+section#b1 {
   width: 1000px;
   background-color: white;
   padding: 25px;
