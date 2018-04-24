@@ -24,4 +24,9 @@ section#abc002 {
   border: 10px solid blue;
   margin: auto;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
